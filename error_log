@@ -1,0 +1,6 @@
+[20-Jun-2024 06:39:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'lokancpn'@'localhost' (using password: YES) in /home4/lokancpn/photo.lokang.com/config.php:9
+Stack trace:
+#0 /home4/lokancpn/photo.lokang.com/config.php(9): mysqli->__construct('localhost', 'lokancpn', Object(SensitiveParameterValue), 'lokancpn_photo')
+#1 /home4/lokancpn/photo.lokang.com/index.php(2): include('/home4/lokancpn...')
+#2 {main}
+  thrown in /home4/lokancpn/photo.lokang.com/config.php on line 9
