@@ -1,1 +1,1 @@
-### https://www.photo.lokang.com
+### http://www.photo.lokang.com
